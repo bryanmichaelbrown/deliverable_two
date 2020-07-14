@@ -1,4 +1,4 @@
-var vacationType= window.prompt("What kind of trip would you like to on: Musical, Tropical, or Adventerous");
+var vacationType= window.prompt("What kind of trip would you like to gon on: Musical, Tropical, or Adventerous");
 var groupSize= window.prompt("What is the total group size?");
 
 
